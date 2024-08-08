@@ -50,3 +50,9 @@
   .profissao-nome {
     font-family: "Poppins", sans-serif;
   }
+  footer{
+    background-color: #64cd64;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+  }
